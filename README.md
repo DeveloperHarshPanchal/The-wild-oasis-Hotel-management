@@ -3,8 +3,9 @@
 The **Wild Oasis** is an internal hotel management application built for a small boutique hotel with **8 luxurious wooden cabins**.  
 This app is designed **only for hotel employees** to manage bookings, cabins, guests, and daily operations efficiently.
 
-live at Netlify🚀 : https://the-oasis-wild-escape.netlify.app/ 
-live at vercel🚀  : https://the-wild-oasis-escape.vercel.app/
+-live at Netlify🚀 : https://the-oasis-wild-escape.netlify.app/ 
+
+-live at vercel🚀  : https://the-wild-oasis-escape.vercel.app/
 
 ---
 
